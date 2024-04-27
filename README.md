@@ -1,6 +1,6 @@
 ### Hi there 👋😃
 
-Eu sou Jose Livan, sou programador Front End, estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizadoode JavaScript e React.
+Eu sou Jose Livan, sou programador Front End, estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript e React.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
