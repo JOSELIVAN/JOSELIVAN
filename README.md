@@ -10,10 +10,4 @@ Eu sou Jose Livan, sou programador Front End, estou aprendendo e criando projeto
 
 ![Jose Livan stats](https://github-readme-stats.vercel.app/api?username=JOSELIVAN&show_icons=true&theme=radical)
 
-
-
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
